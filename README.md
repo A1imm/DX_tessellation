@@ -56,7 +56,7 @@ This project was developed as part of laboratory exercises for the course:
 
 > **Graphics API Programming (DirectX)**  
 > Silesian University of Technology – Faculty of Automatic Control, Electronics and Computer Science  
-> Supervised by: mgr inż. Aleksandra Szymczak, mgr inż. Mirosław Gontarek
+> Supervised by: mgr inż. Aleksandra Szymczak
 
 ---
 
